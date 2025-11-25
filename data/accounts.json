@@ -1,0 +1,20 @@
+{
+    "parta": {
+        "pin": "080723",
+        "balance": 1000000,
+        "history": []
+    },
+    "indah": {
+        "pin": "123",
+        "balance": 10000000.0,
+        "history": [
+            "Withdraw: -500000.0",
+            "Deposit: +10000000.0"
+        ]
+    },
+    "1": {
+        "pin": "indah",
+        "balance": 123.0,
+        "history": []
+    }
+}
